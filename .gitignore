@@ -5,7 +5,8 @@
 .nitro
 .cache
 dist
-
+.voidrules
+.clinerules
 # Node dependencies
 node_modules
 
