@@ -1,5 +1,5 @@
 <template>
-  <Navbar></Navbar>
+  <layoutNavbar></layoutNavbar>
   <slot></slot>
   <Footer></Footer>
 </template>

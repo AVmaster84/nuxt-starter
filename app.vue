@@ -1,7 +1,7 @@
 <script setup>
 useHead({
-  htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  htmlAttrs: { lang: "vi-VN" },
+  title: "Công ty TNHH TMDV Cam Hiệp Long",
   meta: [
     {
       name: "description",
